@@ -4,8 +4,6 @@
 #
 # =============================================================================
 
-# TODO: Some explanatory header and think of how to combine this with getdata.py
-
 import sys
 import os
 import shutil
